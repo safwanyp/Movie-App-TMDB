@@ -12,7 +12,9 @@ First you need to get your TMDB API key from [here](https://developers.themovied
 If you have issues with getting a new API key, here's a short tutorial on [YouTube](https://www.youtube.com/watch?v=Q7swsALUS-o).
 
 Navigate to `lib/secret/themoviedb_api.dart` and replace the X's with your API key.
+
 Before: `const String themoviedbApi = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';`
+
 After: `const String themoviedbApi = 'your-api-key';`
 
 Once you have added your API key, you can run the `flutter run` command and test out the app.
