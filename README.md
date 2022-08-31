@@ -2,6 +2,8 @@
 
 This is a simple Android application to view information on movies that is available through the [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction). Feel free to download and run the app on your Android smartphones to get a feel of this app. If you face any issues while using the app, let me know by raising an issue. All sorts of feedback will be appreciated 😁
 
+Download the APK file by clicking [here](https://github.com/safwanyp/Movie-App-TMDB/releases/tag/v1.0.0).
+
 # For developers
 
 This is app is MIT licensed so you can clone the repo and use the code however you seem fit. Any changes made to the original code is not my responsibility. You take sole ownership of the app when you change the code. If you're facing any problems, feel free to reach out to me.
